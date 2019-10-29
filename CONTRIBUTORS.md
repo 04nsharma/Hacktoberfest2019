@@ -415,3 +415,9 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+### Joe Mama
+- Photo:https://avatars3.githubusercontent.com/u/49275855?s=460&v=4
+- Location:Wyoming, USA
+- Bio:  💻 Open Source Contributor
+- Github:https://github.com/alifnaufalyasin
